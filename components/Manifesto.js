@@ -117,7 +117,7 @@ function Manifesto() {
             simplifies and makes easy the way we do things. The past
             administration employed digital processes in our dealings, my
             administration, if voted for, will employ technologies that will
-            bring to our palms our personal cooperative dealings.
+            bring to your palms your personal cooperative dealings.
           </p>
         </div>
       </div>
