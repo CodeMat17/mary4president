@@ -8,8 +8,8 @@ function AboutMe() {
       <p className='pt-6 max-w-3xl mx-auto'>
         My name is Mary Mathias Eseoghene, a staff of NFVCB and a member of the NFVCB
         Cooperative society. I work at the Board&apos;s Head office, Abuja.
-        I am the immediate past Auditor of our Cooperative Society and a one
-        time Treasurer. I have also served in other different capacities within
+        I am the immediate past Auditor of our Cooperative Society and the pioneer
+        Financial Secretary. I have also served in other different capacities within
         the territory of our cooperative soceity which has given me the much needed
         experience to continue and build upon the structures of the last administration.
       </p>

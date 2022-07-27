@@ -55,9 +55,9 @@ function Manifesto() {
             Empowerment
           </h3>
           <p className='pt-2'>
-            Benefitial external opportunities will be listened to and also
-            search within where necessary, to empower the NFVCB cooperators for
-            capacity growth and more.
+            Benefitial external opportunities will be listened to and also we
+            will search within where necessary, to empower the NFVCB cooperators
+            for capacity growth and more.
           </p>
         </div>
 
@@ -76,7 +76,9 @@ function Manifesto() {
             brought onboard the zonal and centre representatives for
             inclusiveness. This is commendable and my administration, if voted
             for, will ensure that the representatives of the zones and centre
-            are on the decision making table.
+            are on the decision making table. Other committees will be created
+            across board to ensure absolute implementation of policies for the
+            success of the administration.
           </p>
         </div>
 
@@ -93,7 +95,10 @@ function Manifesto() {
           <p className='pt-2 max-w-3xl mx-auto'>
             The retirement plan for the retired members have never been toyed
             with in the past. It is therefore very pertinent that it is
-            maintained and built upon.
+            maintained and built upon. Stiffer policies will be made to ensure
+            that the retirement packages are secured, devoid of mismanagement so
+            that retired members can smile home with a broader smile on their
+            faces.
           </p>
         </div>
 

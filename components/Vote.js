@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function Vote() {
   return (
-    <div className='py-12 px-8'>
+    <div className='py-12 px-8 text-center'>
       <div className='flex items-center justify-center space-x-2'>
         <FontAwesomeIcon
           icon={faCalendarCheck}
@@ -17,12 +17,14 @@ function Vote() {
         </div>
       </div>
 
-      <p className='pt-2 max-w-3xl mx-auto'>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora
-        eligendi iusto veritatis unde? Deleniti omnis, quam laborum nostrum at
-        saepe quae, excepturi rerum, dolor maxime eos similique quaerat
-        voluptatum nesciunt consectetur ab. Natus, repellat.
-      </p>
+      <p className='pt-4 font-bold text-3xl tracking-wider'>Mary Mathias</p>
+      <p className='font-bold text-3xl tracking-wider'>Eseoghene</p>
+      <div className='relative flex justify-center pt-6'>
+        <div className='bg-lime-600 w-[300px] h-12 blur-lg'></div>
+        <p className='absolute top-4 pt-4 text-white font-semibold text-lg'>
+          For NFVCB Coop. President
+        </p>
+      </div>
     </div>
   );
 }
