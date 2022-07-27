@@ -7,10 +7,10 @@ function Vote() {
       <div className='flex items-center justify-center space-x-2'>
         <FontAwesomeIcon
           icon={faCalendarCheck}
-          className='w-12 h-12 text-lime-700/60'
+          className='w-12 h-12 text-lime-600'
         />
         <div>
-          <h2 className='text-center font-bold text-xl text-lime-700/60 tracking-wide'>
+          <h2 className='text-center font-bold text-xl text-lime-500 tracking-wide'>
             VOTE FOR ME
           </h2>
           <section className='h-1 w-28 bg-gradient-to-r from-lime-500 mx-auto'></section>
