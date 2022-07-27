@@ -17,7 +17,7 @@ function Vote() {
         </div>
       </div>
 
-      <p className='pt-2'>
+      <p className='pt-2 max-w-3xl mx-auto'>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora
         eligendi iusto veritatis unde? Deleniti omnis, quam laborum nostrum at
         saepe quae, excepturi rerum, dolor maxime eos similique quaerat

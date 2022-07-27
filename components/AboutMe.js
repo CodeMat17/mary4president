@@ -5,7 +5,7 @@ function AboutMe() {
         ABOUT ME
       </h2>
       <section className='h-1 w-28 bg-gradient-to-r from-lime-500 mx-auto'></section>
-      <p className='pt-6'>
+      <p className='pt-6 max-w-3xl mx-auto'>
         My name is Mary Mathias Eseoghene, a staff of NFVCB and a member of the NFVCB
         Cooperative society. I work at the Board&apos;s Head office, Abuja.
         I am the immediate past Auditor of our Cooperative Society and a one
