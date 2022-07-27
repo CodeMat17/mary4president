@@ -1,5 +1,6 @@
 import {
   faBagShopping,
+  faChalkboardUser,
   faPeopleLine,
   faPersonArrowUpFromLine,
   faUserShield,
@@ -95,7 +96,7 @@ function Manifesto() {
       <div className='pt-8'>
         <div className='flex justify-center'>
           <FontAwesomeIcon
-            icon={faChalkboard}
+            icon={faChalkboardUser}
             className='w-12 h-12 text-lime-700/80'
           />
         </div>
