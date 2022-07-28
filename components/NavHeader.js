@@ -18,7 +18,7 @@ function NavHeader() {
         </div>
 
         <p className='text-lime-600 font-semibold tracking-wide text-xl'>
-          Mary 4 President
+          Mary 4 <span className='text-red-600'>President</span> 
         </p>
       </nav>
     </header>

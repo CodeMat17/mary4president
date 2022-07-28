@@ -22,7 +22,7 @@ function Vote() {
       <div className='relative flex justify-center pt-6'>
         <div className='bg-lime-600 w-[300px] h-12 blur-lg'></div>
         <p className='absolute top-4 pt-4 text-white font-semibold text-lg'>
-          For NFVCB Coop. President
+          For NFVCB Coop. <span className='text-red-600'>President</span> 
         </p>
       </div>
     </div>

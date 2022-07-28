@@ -24,7 +24,7 @@ function Hero() {
         </div>
         
         <p className='bg-gradient-to-r from-lime-500 font-semibold text-white rounded px-1 sm:text-xl'>
-          For NFVCB Coop. President
+          For NFVCB Coop. <span className='text-red-600'>President</span> 
         </p>
       </div>
     </div>
