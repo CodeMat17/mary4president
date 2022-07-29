@@ -20,7 +20,7 @@ function Vote() {
       <p className='pt-4 font-bold text-3xl tracking-wider'>Mary Mathias</p>
       <p className='font-bold text-3xl tracking-wider'>Eseoghene</p>
       <div className='relative flex justify-center pt-6'>
-        <div className='bg-lime-600 w-[300px] h-12 blur-lg'></div>
+        <div className='bg-lime-600 w-[300px] h-12 blur-xl'></div>
         <p className='absolute top-4 pt-4 text-white font-semibold text-lg'>
           For NFVCB Coop. <span className='text-red-600'>President</span> 
         </p>

@@ -5,6 +5,7 @@ import Intro from '../components/AboutMe'
 import Manifesto from '../components/Manifesto'
 import NavHeader from '../components/NavHeader'
 import Vote from '../components/Vote'
+import Footer from '../components/Footer'
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <Intro />
       <Manifesto />
       <Vote />
+      <Footer />
     </div>
   )
 }

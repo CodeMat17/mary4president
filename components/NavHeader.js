@@ -4,7 +4,7 @@ import React from 'react';
 function NavHeader() {
   return (
     <header className='sticky top-0 z-50 bg-gradient-to-r from-lime-300 to-lime-50'>
-      <nav className='flex items-center space-x-2 px-4 py-1'>
+      <nav className='flex items-center space-x-2 px-4 py-2'>
         <div className='bg-lime-500 rounded-full p-1 border-2 border-white'>
           <div className='relative w-[35px] h-[35px] '>
             <Image
@@ -17,7 +17,7 @@ function NavHeader() {
           </div>
         </div>
 
-        <p className='text-lime-600 font-semibold tracking-wide text-xl'>
+        <p className='text-lime-600 font-semibold tracking-wide text-xl md:text-2xl'>
           Mary 4 <span className='text-red-600'>President</span> 
         </p>
       </nav>
