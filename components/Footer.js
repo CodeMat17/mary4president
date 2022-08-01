@@ -14,7 +14,7 @@ function Footer() {
         </a>
       </p>
       <small className='text-center text-sm pt-4 text-lime-500/90'>
-        Courtesy:{' '}
+        Developer:{' '}
         <Link href='https://matthewchukwu.dev'>
           <a className='text-amber-500 underline'>Matthew Chukwu</a>
         </Link>
