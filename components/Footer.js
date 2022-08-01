@@ -13,13 +13,13 @@ function Footer() {
           here.
         </a>
       </p>
-      <code className='text-center text-sm pt-4 text-lime-500/90'>
+      <small className='text-center text-sm pt-4 text-lime-500/90'>
         Courtesy:{' '}
         <Link href='https://matthewchukwu.dev'>
           <a className='text-amber-500 underline'>Matthew Chukwu</a>
         </Link>
         , Calabar Centre.
-      </code>
+      </small>
     </div>
   );
 }
